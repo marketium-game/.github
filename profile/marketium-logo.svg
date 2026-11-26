@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="1024" height="1024">
+  <title>Marketium</title>
+  <circle cx="90" cy="90" r="89.5" fill="#FFFFFF"/>
+  <g fill="none" stroke-width="7.5">
+  <path d="M159.37 140.40 A85.75 85.75 0 0 0 43.93 17.68" stroke="#EF9AB3"/>
+  <path d="M43.93 17.68 A85.75 85.75 0 0 0 21.52 141.61" stroke="#1C578E"/>
+  <path d="M21.52 141.61 A85.75 85.75 0 0 0 159.37 140.40" stroke="#F8C393"/>
+  </g>
+  <polygon points="37 57 68.5 57 89.75 106.5 111 57 142.5 57 142.5 127.5 124 127.5 124 70.2 99.2 127.5 80.3 127.5 55.5 70.2 55.5 127.5 37 127.5" fill="#1E1E1E"/>
+</svg>
